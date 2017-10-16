@@ -23,7 +23,7 @@ struct VCS2x4Widget : ModuleWidget {
 	VCS2x4Widget();
 };
 
-You may also wish to adjust the BG_IMAGE_FILE and FONT_FILE macros in SEQEuclid.cpp.
+You may also wish to adjust the BG_IMAGE_FILE_1x8 and BG_IMAGE_FILE_2x4 macros in VCS.cpp.
 
 
 ## Useage 
