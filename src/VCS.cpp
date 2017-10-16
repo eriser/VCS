@@ -3,8 +3,8 @@
 #include "Fundamental.hpp"
 #include "dsp/digital.hpp"
 
-#define BG_IMAGE_FILE_1x8  assetPlugin(plugin, "res/VCS1x8.png"
-#define BG_IMAGE_FILE_2x4  assetPlugin(plugin, "res/VCS2x4.png"
+#define BG_IMAGE_FILE_1x8  assetPlugin(plugin, "res/VCS1x8.png")
+#define BG_IMAGE_FILE_2x4  assetPlugin(plugin, "res/VCS2x4.png")
 
 
 
